@@ -3,7 +3,7 @@ import React from 'react'
 function Test() {
     return (
         <div>
-            this is app page
+            this is test page
         </div>
     )
 }
